@@ -1,6 +1,6 @@
 === Easy Chat Button ===
 Contributors: MXideas
-Tags: whatsapp, button, messaging, communication
+Tags: whatsapp, Chat bbutton, messaging, communication, click to chat,social chat,whatsapp,whatsapp business,woocommerce whatsapp
 Requires at least: 5.0
 Tested up to: 6.2
 Stable tag: 1.0.0
@@ -37,14 +37,14 @@ Q: Can I use this plugin on multiple websites?
 A: Yes, you can use the Easy Chat Button plugin on multiple WordPress websites.
 
 == Support ==
-If you need assistance or have any questions or suggestions, please visit our support forum at [link_to_support_forum].
+If you need assistance or have any questions or suggestions, please visit our support forum at [https://wordpress.org/support/plugin/easy-chat-button/.
 
 == Contributions ==
-We welcome contributions to improve Easy Chat Button. If you would like to contribute, please visit our GitHub repository at [link_to_github_repo].
+We welcome contributions to improve Easy Chat Button. If you would like to contribute, please visit our GitHub repository at https://github.com/mxideas/Easy-Chat-Button-Wordpress.
 
 == Credits ==
-- Author: Your Name
-- Icon made by Freepik from www.flaticon.com
+- Author: Fontawesome
+- Icon made by Fontawesome from https://fontawesome.com/
 
 == Notes ==
 - Easy Chat Button requires WordPress 5.0 or higher.
